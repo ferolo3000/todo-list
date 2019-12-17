@@ -7,6 +7,4 @@ ToDo list is a simple web application create as part of practicing coding.
 * Add new task
 * Delete completed tasks
 
-![todo-list](todo-list.png)
-
 
